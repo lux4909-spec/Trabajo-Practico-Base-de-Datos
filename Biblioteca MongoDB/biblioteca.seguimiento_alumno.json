@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "6af5031afc66d762638857ad"
+  },
+  "id_alumno": 1,
+  "observaciones": [
+    "Entrego 2 libros en mal estado"
+  ],
+  "nombre": "elmer",
+  "apellido": "figueroa arce",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6af50f42fc66d762638857c1"
+  },
+  "id_alumno": 2,
+  "observaciones": [
+    "Entrega los libros en las fechas acordadas y en buen estado"
+  ],
+  "nombre": "Sandy",
+  "apellido": "Carriello",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6af51009fc66d762638857c3"
+  },
+  "id_alumno": 4,
+  "observaciones": [
+    "Le gusta leer solo sin que lo molesten"
+  ],
+  "nombre": "Adrian",
+  "apellido": "Rodriguez",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6af510edfc66d762638857c5"
+  },
+  "id_alumno": 3,
+  "observaciones": [
+    "Es muy cuidadoso con los libros"
+  ],
+  "nombre": "Luis",
+  "apellido": "Deschamps",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6af5111bfc66d762638857c6"
+  },
+  "id_alumno": 5,
+  "observaciones": [
+    "Nunca entrega los libros a tiempo"
+  ],
+  "nombre": "Isabel",
+  "apellido": "Mebarak",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6af51151fc66d762638857c7"
+  },
+  "id_alumno": 6,
+  "observaciones": [
+    "Todavia no devolvio un libro"
+  ],
+  "nombre": "Joanne",
+  "apellido": "Germanotta",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6afcde1b8a9f8fc21cfcbe84"
+  },
+  "id_alumno": 7,
+  "observaciones": "Muestra excelente cuidado por los libros",
+  "nombre": "Ramon Luis",
+  "apellido": "Ayala Rodriguez",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6afcdf358a9f8fc21cfcbe85"
+  },
+  "id_alumno": 9,
+  "observaciones": "Tiende a retrasarse coon las fechas de devoluion. Se sugiere recordarle la fecha de devolicion",
+  "nombre": "Juliana",
+  "apellido": "Gattas",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6afce2498a9f8fc21cfcbe86"
+  },
+  "id_alumno": 8,
+  "observaciones": "Se le advirtió en una ocasión por entregar un libro con páginas marcadas. Se conversó sobre el buenuso del material",
+  "nombre": "Armando Luis",
+  "apellido": "Pérez",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6afce2c38a9f8fc21cfcbe87"
+  },
+  "id_alumno": 10,
+  "observaciones": "No le gustan tanto leer, pero le gusta pasar el tiempo en la biblioteca",
+  "nombre": "Agenor de Miranda",
+  "apellido": "Araújo Neto",
+  "activo": true
+}]

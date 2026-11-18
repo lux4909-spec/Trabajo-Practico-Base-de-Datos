@@ -1,0 +1,122 @@
+[{
+  "_id": {
+    "$oid": "6af503a6fc66d762638857b1"
+  },
+  "id_alumno": 1,
+  "Nombre": "Elmer",
+  "Apellido": "Figueroa Arce",
+  "Valoracion_de_Estrella": 5,
+  "id_libro": 7,
+  "libro": "Farenheit 451",
+  "Reseña": [
+    "Me encanto. Un libro muy espectacular"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af7823fadffca0f995d3a51"
+  },
+  "id_alumno": 3,
+  "Nombre": "luis",
+  "Apellido": "Deschamps",
+  "Valoracion_de_Estrella": 4,
+  "id_libro": 14,
+  "libro": "Apuntes sobre teatro independiente argentino",
+  "Reseña": "Te ayuda a entender cómo empezó este movimiento cultural tan importante que sigue existiendo hoy en día."
+},
+{
+  "_id": {
+    "$oid": "6af905a88500c247aa48470c"
+  },
+  "id_alumno": 6,
+  "Nombre": "Joanne",
+  "Apellido": "Germanotta",
+  "Valoracion_de_Estrella": 4.5,
+  "id_libro": 18,
+  "libro": "Etapas de la creacion de un espectaculo",
+  "Reseña": "Me pareció muy interesante este libro porque explica paso a paso todo lo que pasa detrás del escenario para poder armar una obra de teatro, desde que se inventa la historia hasta el día del estreno."
+},
+{
+  "_id": {
+    "$oid": "6af9065a8500c247aa48470d"
+  },
+  "id_alumno": 4,
+  "Nombre": "Adrian",
+  "Apellido": "Rodriguez",
+  "Valoracion_de_Estrella": 5,
+  "id_libro": 19,
+  "libro": "Noches siniestras en Mar del Plata",
+  "Reseña": "Me gustó mucho este libro porque tiene nueve cuentos de terror y misterio que pasan en lugares muy conocidos de Mar del Plata, como el Torreón del Monje o la playa de noche"
+},
+{
+  "_id": {
+    "$oid": "6af907b48500c247aa484711"
+  },
+  "id_alumno": 2,
+  "Nombre": "Sandy",
+  "Apellido": "Carriello",
+  "Valoracion_de_Estrella": 4,
+  "id_libro": 25,
+  "libro": "El salto",
+  "Reseña": "Es una historia de ciencia ficción muy interesante que te hace pensar en lo importante que es tomar nuestras propias decisiones."
+},
+{
+  "_id": {
+    "$oid": "6af908938500c247aa484713"
+  },
+  "id_alumno": 5,
+  "Nombre": "Isabel",
+  "Apellido": "Mebarak",
+  "Valoracion_de_Estrella": 5,
+  "id_libro": 23,
+  "libro": "El anotador",
+  "Reseña": "Me pareció muy interesante este libro porque explica paso a paso todo lo que pasa detrás del escenario para poder armar una obra de teatro, desde que se inventa la historia hasta el día del estreno."
+},
+{
+  "_id": {
+    "$oid": "6af909c58500c247aa484715"
+  },
+  "id_alumno": 6,
+  "Nombre": "Joanne",
+  "Apellido": "Germanotta",
+  "Valoracion_de_Estrella": 4,
+  "id_libro": 26,
+  "libro": "Perdidos: El valle de las luces",
+  "Reseña": "Me encantó este libro porque trata sobre cinco chicos que sufren un accidente en un barco y aparecen perdidos en una tierra misteriosa llena de peligros."
+},
+{
+  "_id": {
+    "$oid": "6af90bae8500c247aa484717"
+  },
+  "id_alumno": 3,
+  "Nombre": "luis",
+  "Apellido": "Deschamps",
+  "Valoracion_de_Estrella": 5,
+  "id_libro": 29,
+  "libro": "La hechicería y el señor de los universos",
+  "Reseña": "Me gustó mucho este libro porque mezcla viajes por el espacio, naves con tecnología invisible y poderes mágicos en una gran aventura."
+},
+{
+  "_id": {
+    "$oid": "6af90c0d8500c247aa484718"
+  },
+  "id_alumno": 1,
+  "Nombre": "Elmer",
+  "Apellido": "Figueroa Arce",
+  "Valoracion_de_Estrella": 5,
+  "id_libro": 10,
+  "libro": "Los Fantasmas",
+  "Reseña": "Es una historia distinta a las comunes que te deja pensando en lo que pasa en cada página y en un final súper inesperado."
+},
+{
+  "_id": {
+    "$oid": "6af90c798500c247aa484719"
+  },
+  "id_alumno": 6,
+  "Nombre": "Joanne",
+  "Apellido": "Germanotta",
+  "Valoracion_de_Estrella": 4,
+  "id_libro": 20,
+  "libro": "Heredé un fantasma",
+  "Reseña": "Me gustó mucho este libro porque cuenta la historia de Ana, una chica que hereda la casa vieja de su tía abuela fallecida y descubre que adentro hay secretos familiares y un fantasma muy particular."
+}]

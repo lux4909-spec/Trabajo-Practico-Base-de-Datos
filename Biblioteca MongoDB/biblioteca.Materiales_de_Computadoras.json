@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "6af90e508500c247aa484722"
+  },
+  "id_Computadora": "1",
+  "Numero_Computadora": "20",
+  "Activo": true,
+  "Aplicaciones Instaladas": [
+    "Excel",
+    "Mongo DB",
+    "PostgreSQL"
+  ],
+  "Componentes": [
+    "intel celeron N4020",
+    "4 GB RAM",
+    "SSD M.2 2280 de 240 GB",
+    "Placa madre  MF50GN V1.2"
+  ],
+  "Detalles": {
+    "Modelo": "Notebook G12"
+  }
+},
+{
+  "_id": {
+    "$oid": "6afcf62b8a9f8fc21cfcbeb6"
+  },
+  "id_Computadora": "8",
+  "Numero_Computadora": "27",
+  "Activo": true,
+  "Aplicaciones Instaladas": [
+    "Python",
+    "Mongo DB",
+    "PostgreSQL",
+    "Postman"
+  ],
+  "Componentes": [
+    "intel celeron N4020",
+    "4 GB RAM",
+    "SSD M.2 2280 de 240 GB",
+    "Placa madre  MF50GN V1.2"
+  ],
+  "Detalles": {
+    "Modelo": "Notebook G12"
+  }
+},
+{
+  "_id": {
+    "$oid": "6afcf7768a9f8fc21cfcbeb7"
+  },
+  "id_Computadora": "11",
+  "Numero_Computadora": "30",
+  "Activo": false,
+  "Aplicaciones Instaladas": [
+    "Excel",
+    "GeoGebra",
+    "Scratch",
+    "WPS Office"
+  ],
+  "Componentes": [
+    "intel celeron N4020",
+    "4 GB RAM",
+    "SSD M.2 2280 de 240 GB",
+    "Placa madre  MF50GN V1.2"
+  ],
+  "Detalles": {
+    "Modelo": "Notebook G12"
+  }
+},
+{
+  "_id": {
+    "$oid": "6afcf9518a9f8fc21cfcbeca"
+  },
+  "id_Computadora": "5",
+  "Numero_Computadora": "24",
+  "Activo": true,
+  "Aplicaciones Instaladas": [
+    "Scratch",
+    "WPS Office"
+  ],
+  "Componentes": [
+    "intel celeron N4020",
+    "4 GB RAM",
+    "SSD M.2 2280 de 240 GB",
+    "Placa madre  MF50GN V1.2"
+  ],
+  "Detalles": {
+    "Modelo": "Notebook G12"
+  }
+},
+{
+  "_id": {
+    "$oid": "6afcf98d8a9f8fc21cfcbecb"
+  },
+  "id_Computadora": "10",
+  "Numero_Computadora": "29",
+  "Activo": true,
+  "Aplicaciones Instaladas": [
+    "Adobe Acrobat Reader",
+    "WinRAR",
+    "Scratch",
+    "Zoom"
+  ],
+  "Componentes": [
+    "intel celeron N4020",
+    "4 GB RAM",
+    "SSD M.2 2280 de 240 GB",
+    "Placa madre  MF50GN V1.2"
+  ],
+  "Detalles": {
+    "Modelo": "Notebook G12"
+  }
+},
+{
+  "_id": {
+    "$oid": "6afcf9e38a9f8fc21cfcbecc"
+  },
+  "id_Computadora": "6",
+  "Numero_Computadora": "25",
+  "Activo": true,
+  "Aplicaciones Instaladas": [
+    "Zoom",
+    "Adobe Acrobat Reader",
+    "Scratch",
+    "WPS Office"
+  ],
+  "Componentes": [
+    "intel celeron N4020",
+    "4 GB RAM",
+    "SSD M.2 2280 de 240 GB",
+    "Placa madre  MF50GN V1.2"
+  ],
+  "Detalles": {
+    "Modelo": "Notebook G15"
+  }
+},
+{
+  "_id": {
+    "$oid": "6afcfa478a9f8fc21cfcbed6"
+  },
+  "id_Computadora": "2",
+  "Numero_Computadora": "21",
+  "Activo": false,
+  "Aplicaciones Instaladas": [
+    "Zoom",
+    "Teams",
+    "Scratch",
+    "WPS Office"
+  ],
+  "Componentes": [
+    "intel celeron N4020",
+    "4 GB RAM",
+    "SSD M.2 2280 de 240 GB",
+    "Placa madre  MF50GN V1.2"
+  ],
+  "Detalles": {
+    "Modelo": "Notebook G12"
+  }
+}]
