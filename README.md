@@ -1,2 +1,3 @@
 crea una base de datos vacia
-abri tu terminal y ejecuta psql -d backup_db_biblioteca.sql
+hace click derecho en la base y elegi restaurar/restore
+elegi el archivo y toca restaurar
